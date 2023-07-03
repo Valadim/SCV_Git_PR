@@ -1,4 +1,4 @@
-![Logo](/img/logo.png)
+![Logo](img/logo.png)
 
 # Инструкция по работе с Git и GitHub
 
